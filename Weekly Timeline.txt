@@ -1,0 +1,7 @@
+| Days        | Topics                     | Tasks                             |
+| ----------- | -------------------------- | --------------------------------- |
+| **Day 1–2** | BeautifulSoup fundamentals | Parse HTML, experiment selectors  |
+| **Day 3–4** | CSS selectors + pagination | Scrape list items across pages    |
+| **Day 5**   | Scrapy introduction        | Generate a spider and run it      |
+| **Day 6**   | Selenium & dynamic content | Scrape JS-loaded pages            |
+| **Day 7**   | Mini-project + quiz        | Combine everything, build project |

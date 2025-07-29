@@ -1,0 +1,9 @@
+📘 What's a CSS Selector?
+Just like in HTML/CSS, you can use:
+- Tag names (div, span)
+-Classes (.quote, .author)
+-IDs (#main, #header)
+-Nesting (div span.text)
+-Attribute selectors (a[href], input[type='text'])
+
+------------------------

@@ -1,0 +1,5 @@
+{"DeptID":101,"EmpID":1,"Name":"Alice","Salary":60000,"DeptName":"IT","Bonus":6000.0}
+{"DeptID":102,"EmpID":2,"Name":"Bob","Salary":55000,"DeptName":"HR","Bonus":5500.0}
+{"DeptID":101,"EmpID":3,"Name":"Charlie","Salary":70000,"DeptName":"IT","Bonus":7000.0}
+{"DeptID":103,"EmpID":4,"Name":"David","Salary":50000,"DeptName":"Finance","Bonus":5000.0}
+{"DeptID":102,"EmpID":5,"Name":"Eva","Salary":65000,"DeptName":"HR","Bonus":6500.0}

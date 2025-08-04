@@ -14,6 +14,6 @@ REM ========== Navigate to project directory ==========
 cd /d E:\TempFolder\Desktop_21_07_2025\Python\50_Hrs_Big_Data_Mastery
 
 REM ========== Run PySpark script ==========
-spark-submit PySpark\pyspark_01.py
+spark-submit PySpark\pyspark_04.py
 
 pause
